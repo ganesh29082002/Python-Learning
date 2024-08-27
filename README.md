@@ -1,4 +1,4 @@
-# Python-Learning
+
 # My Python Learning Journey
 
 Welcome to my Python learning repository! This repository documents my daily progress as I learn various Python concepts and techniques. Each day, I dive into different topics to understand and practice Python programming better. You can find my daily learning notes, examples, and code snippets organized in day-wise folders.
